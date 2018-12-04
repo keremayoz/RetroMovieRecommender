@@ -1,0 +1,23 @@
+DESIGN
+------
+
+https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed
+
+https://www.kaggle.com/rounakbanik/movie-recommender-systems
+
+https://towardsdatascience.com/the-4-recommendation-engines-that-can-predict-your-movie-tastes-109dc4e10c52
+
+https://towardsdatascience.com/creating-a-movie-recommender-using-convolutional-neural-networks-be93e66464a7
+
+https://www.datacamp.com/community/tutorials/recommender-systems-python
+
+PCA
+-----
+
+https://plot.ly/ipython-notebooks/principal-component-analysis/
+
+https://sebastianraschka.com/Articles/2014_pca_step_by_step.html
+
+
+NEURAL NETWORK
+--------------
